@@ -48,5 +48,7 @@ class Solution {
 // LESSONS LEARNED
 // BE AWARE OF SIDE AFFECTS OF YOUR OWN ALTERATIONS!
 // Always test your negating stuff. Positive vs. negative
-// Multiplying by 10 and then comparing to min max, is different from seeing if you can even multiply by 10 or not. 
-// Basically when you have a **min max**, every single operation that happens is to be governed by that min/max...
+// DonMultiplying by 10 and then comparing to min max, is different from seeing if you can even multiply by 10 or not. 
+// Basically when you have a **min max**, **every single operation** that happens is to be governed by that min/max...
+// Predict vs. do: If you know there's a possibility of overflowing, then you can do a pre-check
+// e.g. if I'm already bigger than Int.max / 10 then the next multiplication will cause an overflow
