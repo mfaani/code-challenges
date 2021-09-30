@@ -11,6 +11,12 @@
  * }
  */
 
+// Even more slick solution
+func maxDepth(_ root: Node?) -> Int {
+    guard let node = root else { return 0 }
+    return (node.children.map(maxDepth).max() ?? 0)  + 1
+}
+
 class Solution2 {
     func maxDepth(_ root: Node?) -> Int {
         // start with a depth of 0
