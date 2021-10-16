@@ -5,7 +5,7 @@
  - prioritization. Making trade offs
  - communication
  - gettting the job done 
-- Questions aren't meant to be about math and probability. (Pg. 23) They're meant to be about algorithms and problem solving a^3 + b^3 = c^3 + d^3
+- Questions aren't meant to be about math and probability. (Pg. 23) They're meant to be about algorithms and problem solving `a^3 + b^3 = c^3 + d^3`
 ## Before the Interview
 - For people without experience (Pg. 26): 
  - Big Projects in school 
@@ -14,7 +14,6 @@
 - Don't forget: Stumbling and struggling is normal ❤️❤️❤️ (Pg. 31) 
 
 ## Behavioral Question
-
 
 Make sure for each project you can talk about: 
  - Challenges
@@ -55,3 +54,29 @@ And that it's best to not use mock clases, rather just inject a mock for its dep
 - wrap up:  What you're looking for etc. 
 
 Try to mention things that show that you're good a cultural fit...limited notes of success and stuff. 
+
+## Big O
+- time complexity
+- space complexity: it's about how much space you need at a single time. i.e. if you create an array at every iteration then you need O(n). However if need N arrays before even looping then the space complexity is O(n) :💡💡💡
+
+### Sequential loops vs. Nested loops
+
+**Sequentia O(n)**
+```swift
+for a in arr {
+}
+
+for b in arr {
+}
+```
+
+vs. 
+
+**Nested O(n^2)**
+
+```swift
+for a in arr {
+ for b in arr {
+ }
+}
+```
