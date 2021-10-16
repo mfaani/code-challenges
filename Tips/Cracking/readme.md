@@ -34,9 +34,24 @@ Questions to ask from interviewer:
 - Using technology X, creates problem Y. How do you solve it. 
 - How did you achieve such
 
-## RxSwift
+### RxSwift
 You should go on that you started the project with Rx, but then you ditched it. 
 As as we didn't need that level of mapping stuff. Also it was difficult as our was getting converged. 
 Later I started learning MVVM and got deep into writing unit-tests and stuff. Realized what's the difference between a class, it's VM, VM mock and VM Tests. 
 And that it's best to not use mock clases, rather just inject a mock for its dependencies. 
 
+## Give structured answers: 
+- Situation 
+- Action (try to have things in a bulleted list. I did 3 things x, y,z and explain each)
+- Result 
+
+
+## intro: 
+- Current role
+- College 
+- Post College
+- Current Role
+- Outside of work
+- wrap up:  What you're looking for etc. 
+
+Try to mention things that show that you're good a cultural fit...limited notes of success and stuff. 
