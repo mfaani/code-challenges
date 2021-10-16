@@ -40,13 +40,13 @@ As as we didn't need that level of mapping stuff. Also it was difficult as our w
 Later I started learning MVVM and got deep into writing unit-tests and stuff. Realized what's the difference between a class, it's VM, VM mock and VM Tests. 
 And that it's best to not use mock clases, rather just inject a mock for its dependencies. 
 
-## Give structured answers: 
+## Give structured answers (Pg. 35) : 
 - Situation 
 - Action (try to have things in a bulleted list. I did 3 things x, y,z and explain each)
 - Result 
 
 
-## intro: 
+## Intro (Pg. 36) : 
 - Current role
 - College 
 - Post College
