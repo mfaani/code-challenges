@@ -59,8 +59,8 @@ If you have multiple answers and are using a low / high bound approach then upon
  special cases are the edges (start, end, min, max, 0, 1, middle, rounding points)
 Are you looking for all Possible values or non-duplicate values?
 If non-duplicates then upon every index update, you have to adjust the index until the value is different. e.g. if you have [0,0,0,1,2,3,3,3] then you need to adjust from 0,3 straight to 1,2 and ignore the 0s,3s that are repeating...
-[-5, -5, -5, 0,1,2,3,4,5,10]
-- 5, nums[i] -5, nums[j] 10 found. So we have to move i, j. There isn't anyt other possibel answer. And we have to move as many as the answer changes. like -4 won't match with 10. -5 and 10 both have to get incremented/decremented. 
+[-5, -5, -5, -4, 0,1,2,3,4,5,10]
+- 5, nums[i] -5, nums[j] 10 found. So we have to move i, j. There isn't any other possible answer. And we have to move as many as the answer changes. like -4 won't match with 10 (I mean we have to move from 10 as well). -5 and 10 both have to get incremented/decremented. 
 
 */
 
