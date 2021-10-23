@@ -8,7 +8,11 @@ class Solution {
         var count = 0
         var isSameSign = true
         if dividend == -2147483648 {
-            return 2147483647
+            if divisor == 1 {
+                return -2147483648    
+            } else if divisor == -1 {
+                return 2147483647
+            }            
         }
         if (dividend > 0 && divisor > 0) || (dividend < 0 && divisor < 0) {
             isSameSign = true
@@ -42,6 +46,7 @@ class Solution {
 // multiplying by 0,1 become tricky then...they mess up your while loops...
 // WHEN There's a big number, then there's ALWAYS an overflow problem. That's what they're looking for. 
 // AGAIN READ THE FUCKING QUESTION!!!
+// BASICALLY for all math questions: you have to be considerate of overflows. 
 
 /*
 Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
