@@ -1,2 +1,3 @@
-Implement NotificationCenter and use the approach described here to make your implementation **thread-safe**. 
-https://dmytro-anokhin.medium.com/concurrency-in-swift-reader-writer-lock-4f255ae73422
+- Implement NotificationCenter and use the approach described here to make your implementation **thread-safe**. [Link](https://dmytro-anokhin.medium.com/concurrency-in-swift-reader-writer-lock-4f255ae73422)
+- Ask about missing requirements. 
+- Other than unit-tests which is a huge thing, maybe NSLocalizaedString, Accessibility, DetailViewController, Pagination are good things to master
