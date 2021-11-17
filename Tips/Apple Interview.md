@@ -5,6 +5,6 @@
   - Accessibility
   - DetailViewController
   - Pagination
- ** - Error Handling
-  - Scaffolding**
+  - Error Handling
+  - Scaffolding
   - Loading 
