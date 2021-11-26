@@ -128,3 +128,11 @@ fn = fn-1 + fn-2 & store
 `c8` means cache value for `f(8)`
 
 So you basically change from computation to lookup and that changes your Big O notation...
+
+## Technical Questions (Pg. 60)
+
+Test your stuff with a simple:
+- general case
+- base case
+- error case
+
