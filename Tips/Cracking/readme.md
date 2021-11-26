@@ -95,3 +95,12 @@ for i in 0 ... n {
 ```
 
 It's N^2 because the first step is going to happen N - 1 times, then N -2 times, and until ... 1 . So it's `N(N-1)/2` and that's just N^2
+
+**What's the Big O notation of sorting each string of an array and then sorting them all? (Pg. 49)**
+
+Assuming `i` is the average lenght of each item: 
+
+sorting each item is: `i * log(i)`. And we have `n` items. so `n * i * log(i)`
+sorting all items is: `n * log(n)`. And each comparison can be of length `i * n * log(n)`
+total = n * i * log<sup> i + n </sup>
+
