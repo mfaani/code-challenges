@@ -19,6 +19,7 @@ class Solution {
 Pro-tip: Try to solve the problem for a small one first. Admittingly after learning of the trick the answer is simple...
 With these height kinda of problems, **usually the min/max height are important. Often min/max to your left vs. to your right.**
 
+
 Question
 Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
