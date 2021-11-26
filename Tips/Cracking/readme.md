@@ -55,7 +55,7 @@ And that it's best to not use mock clases, rather just inject a mock for its dep
 
 Try to mention things that show that you're good a cultural fit...limited notes of success and stuff. 
 
-## Big O
+## Big O (Pg. 43)
 - time complexity
 - space complexity: it's about how much space you need at a single time. i.e. if you create an array at every iteration then you need O(n). However if need N arrays before even looping then the space complexity is O(n) :💡💡💡
 
@@ -80,3 +80,18 @@ for a in arr {
  }
 }
 ```
+
+💡💡💡 for most tree like stuff the complexity would be number of (branches)<sup>depth</sup>. Branches/choices/options/directions. 
+
+
+Looping like this is still N^2: 
+
+```swift
+for i in 0 ... n {
+   for j in i + 1 ... n {
+      print(i,j)
+   }
+}
+```
+
+It's N^2 because the first step is going to happen N - 1 times, then N -2 times, and until ... 1 . So it's `N(N-1)/2` and that's just N^2
