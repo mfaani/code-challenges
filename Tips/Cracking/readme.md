@@ -104,3 +104,27 @@ sorting each item is: `i * log(i)`. And we have `n` items. so `n * i * log(i)`
 sorting all items is: `n * log(n)`. And each comparison can be of length `i * n * log(n)`
 total = n * i * log<sup> i + n </sup>
 
+Pro-tip: How many times a thing gets called. For what length. 
+
+** What is the Big O notation of fibnoacchi (Pg. 54)?**
+
+It's `branches ^ depth` = 2 ^ N`
+
+What if we cache the values? 
+
+💡💡💡 It's key to write it down. It turns into this:
+
+
+```
+f0 = 1 & store
+f1 = 1 & store
+f2 = c0 + c1 & store 
+f3 = c2 + c1 & store
+...
+fn = fn-1 + fn-2 & store
+```
+
+`c1` means cache value for `f(1)`
+`c8` means cache value for `f(8)`
+
+So you basically change from computation to lookup and that changes your Big O notation...
