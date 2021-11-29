@@ -34,6 +34,7 @@ My mistakes:
  - If your tech lead isn't there technically then instead of fighting them, help them — pateintly. Don't lose patience or raise your voice. 
  -  Often times I have ideas and I should show how it works instead of just talking about
  -  I didn't have the courage to create engineering tickets and bring them into our sprint. I was always held back by product oriented tickets.
+ -  I always jumped at scope-changes. This effected the delivery of the tickets. I should have communicated it better. 
 
 Questions to ask from interviewer: 
 - How many devs/testers
