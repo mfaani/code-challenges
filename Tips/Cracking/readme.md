@@ -35,6 +35,7 @@ My mistakes:
  -  Often times I have ideas and I should show how it works instead of just talking about
  -  I didn't have the courage to create engineering tickets and bring them into our sprint. I was always held back by product oriented tickets.
  -  I always jumped at scope-changes. This effected the delivery of the tickets. I should have communicated it better. 
+ -  Not every manager/lead is the same. Some leads will come and check on you and help you out upon a tiny show of weakness, for others you need to be very articulate with their time. You just have to adapt on day one. Possibly even asking these questions from your manager/lead would save you a lot of headache. 
 
 Questions to ask from interviewer: 
 - How many devs/testers
