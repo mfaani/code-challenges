@@ -38,6 +38,9 @@ My mistakes:
 
 Questions to ask from interviewer: 
 - How many devs/testers
+- What's your PR merge rule like
+- What's the onboarding like? Like if I know Swift, UIKit and MVVM can I jump straight in? 
+- How's your company's presence in the iOS community? How many of you are active speakers? How do they get support from the company? 
 - Why did you choose the company? 
 
 - Using technology X, creates problem Y. How do you solve it. 
