@@ -31,7 +31,7 @@ My mistakes:
  - I became SME in certain domains, yet I should have created proper architectural diagrams and linked them at the right place i.e. I should have becamet the document champion of that subject too, not just the SME. Being an SME will effect your timings
  - Ever since we had attrition I had to spend more time outside my immediate team helping other teams due to having knowledge on app startup up. I should have managed my time bettter and communicated better with my manager
  - Not being super attentive in meetings e.g. in Grooming 
- - If your tech lead isn't there technically then instead of fighting them, help them — pateintly. Don't lose patience or raise your voice. 
+ - If your tech lead isn't there technically then instead of fighting them for their lack of knowledge, help them out all the way — pateintly and while you implicitly acknowledge their work experience. Don't lose patience or get frustrated. 
  -  Often times I have ideas and I should show how it works instead of just talking about
  -  I didn't have the courage to create engineering tickets and bring them into our sprint. I was always held back by product oriented tickets.
  -  I always jumped at scope-changes. This effected the delivery of the tickets. I should have communicated it better. 
