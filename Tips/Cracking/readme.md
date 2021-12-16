@@ -29,6 +29,7 @@ My mistakes:
  - Not properly communicating to manager/PM but then later spending time on stuff I thought was severly necessary. Like I should have more trust in myself that my decisions are right. Because more than often I've ended up doing that work later when my memory wasn't fresh and it had become a priority and then things got rushed...
  - Trying to do a big ticket all in one go. Not breaking it down. 
  - I often think too much and don't pull in my leads in a timely manner. 
+ - When I'm frustraded due to incorrect managerial decisions e.g. rushing things, I actually become slower and feel like my slowness is justified. It shouldn't be. Their fault is their fault. I shouldn't let that slow me down. I should just work harder and fix things in the long run. Like outline a plan and talk with the right-minded people to get things done. 
  - If someone isn't meeting with me, then I have to create the meeting invite, I can't just say they were suppose to create the meeting
  - I became SME in certain domains, yet I should have created proper architectural diagrams and linked them at the right place i.e. I should have becamet the document champion of that subject too, not just the SME. Being an SME will effect your timings
  - Ever since we had attrition I had to spend more time outside my immediate team helping other teams due to having knowledge on app startup up. I should have managed my time bettter and communicated better with my manager
