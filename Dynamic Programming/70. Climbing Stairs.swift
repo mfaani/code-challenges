@@ -65,6 +65,17 @@ MISTAKES:
 
                                     - GOD-TIP: **Think of every node as a combination of steps!**
 
+- RESOURCE: https://youtu.be/Y0lT9Fck7qI?t=818
+
+- BOTTOM-UP Approach: assume n = 5
+- Start from last step n = 5. You have 1 way to reach destination. That 1 way is not moving. It's not 0, because you're at the destination and that counts.
+- It's only 0 if you're beyond n = 5
+- Then come back one step at n = 4. You have 1 way to reach n = 5
+- n = 3. From there on you can jump 1 step or 2 steps hence the answer is dp[4] + dp[5]. 
+- Basically when you're doing bottom-up, you first find out the answer of last index.
+- ultimate answer: dp[i] = dp[i - 1] + dp[i - 2]
+
+
 - PRO-TIP: For memoization you need to return. Can't have void functions 
 - PRO-TIP: How to read from your memoization table: Don't try reading. Try seeing if you can just return or exit or something. 
 Towards the very end you should look into the cache. And at the end inject into your cache. 
