@@ -63,6 +63,7 @@ MISTAKES:
 - I needed hashable. But then I needed it to be against the tuple. However `n` was constant. 
 - So I should have moved that out of consideration. i.e. no need to make a `struct`
 
+                                    - GOD-TIP: **Think of every node as a combination of steps!**
 
 - PRO-TIP: For memoization you need to return. Can't have void functions 
 - PRO-TIP: How to read from your memoization table: Don't try reading. Try seeing if you can just return or exit or something. 
