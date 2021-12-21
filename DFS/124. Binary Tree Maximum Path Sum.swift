@@ -20,10 +20,10 @@ class Solution {
 }
 
 
-/* LESSON: 
-If you need to do a sum of things, then usually you need to just return upon even each traversal in your tree
-If you need to do a min/max thing, then you usually need to have a global variable where you update it upon each iteration.
-However if you needed to do a min/max on the sum, then likely you’ll need to do both.
+/* IMPORTANT LESSON: 
+- If you need to do a sum of things, then usually you need to just return upon even each traversal in your tree
+- If you need to do a min/max thing, then you usually need to have a global variable where you update it upon each iteration.
+- However if you needed to do a min/max on the sum, then likely you’ll need to do both.
 
 Pro-tip: 
 
