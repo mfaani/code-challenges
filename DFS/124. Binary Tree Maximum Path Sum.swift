@@ -12,7 +12,7 @@ class Solution {
         var left = max(maxGain(node.left), 0)
         var right = max(maxGain(node.right), 0)
         // var left = maxGain(node.left) // this in incorrect as their's never value in adding a portion where it's value is negative. Just take 0 for it instead!
-        // var right = maxGain(node.right)
+        // var right = maxGain(node.right) // ditto
         var currentSum = left + right + node.val
         res = max(res, currentSum)
         return node.val + max(left, right) // let's return it so others can use this to add to their own nodes. Note that we can't return a path that goes both left and right. We can only do that for a solution on the node where we compare. 
@@ -30,7 +30,7 @@ Pro-tip:
 Use 0 for paths with no value. 
 
 Explanation: 
-Why this works for negative an all negative nodes as well? 
+Why this works for an all negative nodes as well? 
 It works because if you have a negative node or negative subAnswer, then it really has no value to be added. 
 All that matters then is just the value of the node itself i.e. if you have [-5, -6, -8] 
 then you first have an answer of -6. Set that as your max
