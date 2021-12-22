@@ -15,7 +15,7 @@ Important considerations regarding simple interviews:
 
 Copied from [here](https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc)
 
-** Architecture **
+### Architecture
 - [Doordash mobile architecture](https://doordash.engineering/2019/12/12/our-tech-stack-in-the-android-dasher-app/)
 - [Evernote rewrite mobile app](https://evernote.com/blog/we-rebuilt-evernote-for-ios-in-swift/)
 - [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8)
