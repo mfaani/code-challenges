@@ -6,6 +6,19 @@
 
 [System design](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 
+### Keys to success: 
+- Ask and write down what the interviewer is looking for. 
+- Ask if discussion is more important or getting the code done. Write that down. 
+- Then in a super quick succession, mention all the things. 
+  - caching
+  - split view
+  - loader
+  - protocols and testing
+  - localization
+  - defaulting
+  - error handling
+  - different image sizeing
+
 Important considerations regarding simple interviews: 
 - Error handling: a lot depends on the nature of the error and the API. Is the error transient or permanent? can the API call tolerate retries safely? Should the error state offer manual retry? Should you flip the whole screen into an error state, or is it a form post and you should pull out per-field errors
 - Empty state often needs handling
