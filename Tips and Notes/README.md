@@ -18,6 +18,22 @@
   - defaulting
   - error handling
   - different image sizeing
+  - There’s an easy way to solve a simple problem, and there’s the right way to solve a simple problem.
+Structure your code, define the architecture, ask important questions, handle errors, make it testable, explain trade offs, describe how it would scale, how it would work when requirements change, is it backwards compatible, is it secure, etc.
+  - More questions to ask:
+      Will the app support iPads as well?
+     ** How will our users use the app/feature?**
+      What iOS version does the app support?
+      What internet connection will they have?
+      Do we need to support offline mode?
+      What about caching? Images, json data, etc.
+      Can we use Combine/SwiftUI?
+      Do we have an internal frameworks we need to use?
+      1. Understanding the users is the key to building any feature/app, and is expected from senior engs and up.
+      For example if you’re guaranteed WiFi you can prefetch images to support better scroll experience, or possibly support a different layout on iPads.
+
+It’s obviously beyond the scope of a quick coding interview but just asking that question will give you credit, and the answer might help you design your solution better.
+
 
 Important considerations regarding simple interviews: 
 - Error handling: a lot depends on the nature of the error and the API. Is the error transient or permanent? can the API call tolerate retries safely? Should the error state offer manual retry? Should you flip the whole screen into an error state, or is it a form post and you should pull out per-field errors
