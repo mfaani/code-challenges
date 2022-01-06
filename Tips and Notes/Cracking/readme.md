@@ -42,7 +42,8 @@ If asked about your weakness, give a real example but also one that's a two side
  -  I was always fine with lastScreenSeen. This effected the delivery of the tickets. I should have communicated it better that it would effect the on-time delivery of things. 
  -  Enforcing diagrams when I'm a new hire. 
  -  **Adapting to negative** change i.e. if you move from one squad to another and that squad has bad workflow, then don't be sad. Work hard and ignore it. 
- -  **Not every manager/lead is the same**. Some leads will come and check on you and help you out upon a tiny show of weakness, for others you need to be very articulate with their time. You just have to adapt on day one. Possibly even asking these questions from your manager/lead would save you a lot of headache. 
+ -  **Not every manager/lead is the same**. Some leads will come and check on you and help you out upon a tiny show of weakness, for others you need to be very articulate with their time. You just have to adapt on day one. Possibly even asking these questions from your manager/lead would save you a lot of headache.
+ -  **Not sitting down enought with Product members**. Building relationship is a 2-way thing. And if they're not creating tickets in a way you need, then sit down with them and discuss things. e.g. rather than saying updaing a random flag, mentioning that's a config or firebase feature flag, helps. Basically ask them to be explicit.
 
 Questions to ask from interviewer: 
 - How **many devs/testers**
