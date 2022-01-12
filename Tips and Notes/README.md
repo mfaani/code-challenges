@@ -22,7 +22,7 @@
 Structure your code, define the architecture, ask important questions, handle errors, make it testable, explain trade offs, describe how it would scale, how it would work when requirements change, is it backwards compatible, is it secure, etc.
   - More questions to ask:
       Will the app support iPads as well?
-     ** How will our users use the app/feature?**
+     **How will our users use the app/feature?**
       What iOS version does the app support?
       What internet connection will they have?
       Do we need to support offline mode?
