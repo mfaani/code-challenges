@@ -1,0 +1,65 @@
+// https://leetcode.com/problems/merge-intervals/submissions/
+class Solution {
+    func merge(_ intervals: [[Int]]) -> [[Int]] {
+        // for every new item, merge it with all previous items. Potentionally shrink the array size
+        
+        var res: [[Int]] = []
+        
+        for interval in intervals {
+            var newRes: [[Int]] = []
+            for r in res { 
+                newRes.append(merge(interval, newRes))
+            }
+            res = newRes
+        }
+        
+        return res
+    }
+    
+    func merge(_ arr1: [Int], _ arr2: [Int]) -> [[Int]] {
+        // no overlap
+        if arr1.last! < arr2.first! {
+            return [arr1, arr2]
+        } 
+        
+        if arr2.last! < arr1.first! { 
+            return [arr1, arr2]
+        }
+        
+        // overlaps arr1.max is smaller than arr2. max e.g. [1,5] & [3,7]
+        if arr1.last! >= arr2.first! && arr1.last! =< arr2.last! {
+            return [[min(arr1.first!, arr2.first!), max(arr1.last!, arr2.last!)]]
+        }
+        // vice versa
+        if arr2.last! >= arr1.first! && arr2.last! =< arr1.last! {
+            return [[min(arr1.first!, arr2.first!), max(arr1.last!, arr2.last!)]]
+        }
+        
+        // arr2 contains arr1
+        
+        if arr1.first! >= arr2.first! && arr1.last! <= arr2.last! {
+            return [[arr2.first!, arr2.last!]]
+        }
+        
+        // arr1 contains arr2
+        if arr2.first! >= arr1.first! && arr2.last! <= arr1.last! {
+            return [[arr1.first!, arr1.last!]]
+        }
+    }
+}
+
+/* LESSONS: 
+
+MISTAKE
+So my idea of mergin and storing in an array and merging again, won't work 5 levels down you could end up with 
+
+[[3,10, [11,33], [44, 66]]] and then comes [0,1000] and so you should end up with [0,1000] and not [[0,1000], [0,1000], [0,1000]]
+
+QUESTION: 
+
+Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
+
+
+
+*/
+
