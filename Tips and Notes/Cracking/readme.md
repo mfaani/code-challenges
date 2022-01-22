@@ -169,22 +169,22 @@ Test your stuff with a simple:
 - Draw an Example
 - State brute force. Don't think that brute force is bad. A lot of candidates can't think of the brute force solution. So even talking aout that is great! (Pg. 64)
 - Optimize (fresh example
- - Precompute values
- - Use hash table
- - Think of best conceivable. Often that leads you to the solution...
+  - Precompute values
+  - Use hash table
+  - Think of best conceivable. Often that leads you to the solution...
 - **Walk your interview through the high level steps**
 - Then implement
 - Test
- - Hot spots: base case in recursive code
- - Special cases:
-  - Empty values
-  - Negative values
-  - Zero
-  - overflow values
-  - trees that aren't balanced. 
-  - start and end of an iteration
-  - division by zero 
-  - null nodes in trees
+  - Hot spots: base case in recursive code
+  - Special cases:
+    - Empty values
+    - Negative values
+    - Zero
+    - overflow values
+    - trees that aren't balanced. 
+    - start and end of an iteration
+    - division by zero 
+    - null nodes in trees
 
 ### Permutations vs combinations
 
