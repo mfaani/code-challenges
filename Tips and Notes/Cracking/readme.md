@@ -163,3 +163,58 @@ Test your stuff with a simple:
 - base case
 - error case
 
+# Steps to solve a problem
+
+- Listen carefully 
+- Draw an Example
+- State brute force. Don't think that brute force is bad. A lot of candidates can't think of the brute force solution. So even talking aout that is great! (Pg. 64)
+- Optimize (fresh example
+ - Precompute values
+ - Use hash table
+ - Think of best conceivable. Often that leads you to the solution...
+- **Walk your interview through the high level steps**
+- Then implement
+- Test
+ - Hot spots: base case in recursive code
+ - Special cases:
+  - Empty values
+  - Negative values
+  - Zero
+  - overflow values
+  - trees that aren't balanced. 
+  - start and end of an iteration
+  - division by zero 
+  - null nodes in trees
+
+### Permutations vs combinations
+
+A permutation is an act of arranging the objects or numbers in order. Combinations are the way of selecting the objects or numbers from a group of objects or collection, in such a way that the order of the objects does not matter. From [here](https://byjus.com/maths/permutation-and-combination/)
+
+https://www.youtube.com/watch?v=m7chPc7zIF4&list=LL&index=66
+Permutations: How many ways from A to B? 
+- A total of 10 directions -> 10!
+- 4 _rights_ exist as identical elements. -> / 4!
+- 6 _down_ exist as identical -> / 6!
+- answer = 10! / (4! * 6!) ... Total answer / total overcounts
+
+**Mistake: Can't think of it as 10 decisions each with 2 choices. It's becaues a selection of 10 rights or 10 downs is incorrect.**
+
+Why can't I think of it as 10 times each with 2 options hence `2^10` ? and then start correcting from there on? Why is total answers considered to be `10!`
+
+Permutations: How many ways from A to B, that goes through C? 
+Answer: ( A -> C ) * (C -> B)
+
+<img width="397" alt="Screen Shot 2022-01-21 at 8 09 52 PM" src="https://user-images.githubusercontent.com/12160198/150618614-11d62512-0c8b-414c-8ce3-9fb53ae106b8.png">
+
+https://www.youtube.com/watch?v=p8vIcmr_Pqo&list=LL&index=72
+
+Permutation formula: 
+
+(Total possibilities) / (Total overcounts) e.g. 
+
+From A, B, C, D, E, F create 2 letter words: 6! total, but then we actually don't 6 slots. So we have to reduce our counts by dividing it by (6 - 4)!
+
+Combination formula: Is same as permutation formula it just then reduces by the _order overcount_ as well
+
+
+<img width="1435" alt="Screen Shot 2022-01-21 at 8 55 47 PM" src="https://user-images.githubusercontent.com/12160198/150620346-b3efc49c-b392-4fda-a53e-8790f0f1da5f.png">
