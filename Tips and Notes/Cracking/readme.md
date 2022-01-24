@@ -194,6 +194,19 @@ Test your stuff with a simple:
       We can just find all values that are integers for (a^3 + b^3 + c^3) ^(1/3)
     - Duplicated work: In the above example: 
       Store all results of c^3 + d^3 in a dictionary. (No need to calculate it every time). Then every time we calculate a^3 + b^3 look up to see if we have that value in our dictionary, if so pull out c & d. **Dictionaries are usually the most common way to avoid duplicate work.**
+   - DIY (Do it yourself). Without any coding do, just use your brain and do it. Then try to infer the algorithm you used. Where you skipped something or actually entered a flow and what algorithm/function you used in your head. (Pg. 70)
+   - Simplify and generalize ????
+   - Base case and build. Try to solve things for n = 1, then try to build up. 
+     Q: How to print all permutations of a string. For simplicity assume all characters are unique. 
+     A: case "a" -> "a"
+        case "ab" -> "ab", "ba"
+        case "abc" -> ?
+        
+        1. Insert "c" into all Permutations of "ab"
+        2. Insert "c" into all strings of "ab" & "ba"
+        3. Merge ("cab", "acb", "abc") & ("cba", "bca", "bac")
+        4. ("cab", "acb", "abc", "cba", "bca", "bac")
+     Base case and build often leads to recursive algorithms
 
 ### Permutations vs combinations
 
