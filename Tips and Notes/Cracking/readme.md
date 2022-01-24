@@ -207,6 +207,15 @@ Test your stuff with a simple:
         3. Merge ("cab", "acb", "abc") & ("cba", "bca", "bac")
         4. ("cab", "acb", "abc", "cba", "bca", "bac")
      Base case and build often leads to recursive algorithms
+     
+  - Flexible and Robust:
+    If tic-tac-toe is 3 x 3, well you can still build your board to be N x N (Pg.80)
+  - Don't give up. Show excitements for solving hard problems
+
+## Negotiations Pg. 82
+- Have a specific ask
+- Keep relationships open after people lave. 
+- Keep interviewing at least 3-4 times a year
 
 ### Permutations vs combinations
 
