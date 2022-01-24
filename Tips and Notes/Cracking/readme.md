@@ -185,6 +185,15 @@ Test your stuff with a simple:
     - start and end of an iteration
     - division by zero 
     - null nodes in trees
+ - Optimize
+   - Look for BUD
+    - Bottlenecks: identify which step is the bottleneck
+    - Unnecessary work. Example: 
+      Print all positive integers that match a^3 + be ^3 = c^ + d^3 (1 < a,b,c,d < 1000)
+      Unncecessary to calculate all and compare
+      We can just find all values that are integers for (a^3 + b^3 + c^3) ^(1/3)
+    - Duplicated work: In the above example: 
+      Store all results of c^3 + d^3 in a dictionary. (No need to calculate it every time). Then every time we calculate a^3 + b^3 look up to see if we have that value in our dictionary, if so pull out c & d. **Dictionaries are usually the most common way to avoid duplicate work.**
 
 ### Permutations vs combinations
 
@@ -215,6 +224,5 @@ Permutation formula:
 From A, B, C, D, E, F create 2 letter words: 6! total, but then we actually don't 6 slots. So we have to reduce our counts by dividing it by (6 - 4)!
 
 Combination formula: Is same as permutation formula it just then reduces by the _order overcount_ as well
-
 
 <img width="1435" alt="Screen Shot 2022-01-21 at 8 55 47 PM" src="https://user-images.githubusercontent.com/12160198/150620346-b3efc49c-b392-4fda-a53e-8790f0f1da5f.png">
