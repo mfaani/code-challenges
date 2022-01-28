@@ -32,6 +32,7 @@ If asked about your weakness, give a real example but also one that's a two side
  - Don't be **shy** to ask in a Public channel. It's often better because you'll hear mutliple views and get to a consensus sooner. Especially that you're working in parallel with Android. 
  - I often think too much and don't pull in my leads in a timely manner. 
  - When I'm frustraded due to incorrect managerial decisions e.g. rushing things, I actually become slower and feel like my slowness is justified. It shouldn't be. Their fault is their fault. I shouldn't let that slow me down. I should just work harder and fix things in the long run. Like outline a plan and talk with the right-minded people to get things done. 
+ - Attempting to change/correct things, **before earning trust of your peers + understanding the current architecture/system**. Doing things too quick will cause failure.  
  - If someone isn't meeting with me, then I have to **create the meeting invite**, I can't just say they were suppose to create the meeting
  - I became SME in certain domains, yet I should have **created proper architectural diagrams** and linked them at the right place i.e. I should have becamet the document champion of that subject too, not just the SME. Being an SME will effect your timings
  - Ever since we had attrition I had to spend more time outside my immediate team helping other teams due to having knowledge on app startup up. I should have **managed my time bettter** and communicated better with my manager
