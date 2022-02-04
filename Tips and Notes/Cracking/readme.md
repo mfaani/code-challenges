@@ -179,14 +179,14 @@ Test your stuff with a simple:
 - Test
   - Hot spots: base case in recursive code
   - Special cases:
-    - Empty values
-    - Negative values
-    - Zero
-    - overflow values
-    - trees that aren't balanced. 
-    - start and end of an iteration
-    - division by zero 
-    - null nodes in trees
+   - Empty values
+   - Negative values
+   - Zero
+   - overflow values
+   - trees that aren't balanced. 
+   - start and end of an iteration
+   - division by zero 
+   - null nodes in trees
  - Optimize
    - Look for BUD
     - Bottlenecks: identify which step is the bottleneck
