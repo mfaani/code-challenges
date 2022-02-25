@@ -26,6 +26,13 @@ Make sure for each project you can talk about:
 
 If asked about your weakness, give a real example but also one that's a two sided sword 😅. e.g. "I forget details...which allows me to execute things quickly :D" 
 ## Mistakes: 
+ - Proper communication for making engineer initiatives happen and proper communication of a heavily product heave focused team: 
+   - This is the **complexity of our stuff**, there's multiple devices, accounts, flows, identification methods and its complex. 
+   - list down everything with everyone
+   - sit down with product
+   - inform them of the benefits of why getting this right 
+   - communicate with them the time that we need and the duration that we can't take in new features...
+   - have direct contanct in a meeting with the PM. It shouldn't be someone passing the info around and it shouldn't be in a private conversation
  - Not properly communicating to manager/PM but then later spending time on stuff I thought was severly necessary. Like I should have more trust in myself that my decisions are right. Because more than often I've ended up doing that work later when my memory wasn't fresh and it had become a priority and then things got rushed...
  - In every team you enter, try to find the **problem-solver** of the team. Don't discuss issues with the problem-creator. 
  - Trying to do a big ticket all in one go. Not breaking it down. 
