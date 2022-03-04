@@ -44,12 +44,13 @@ If asked about your weakness, give a real example but also one that's a two side
  -  I didn't have the courage to **create engineering tickets** and bring them into our sprint. I was always held back by product oriented tickets.
  -  I was always fine with lastScreenSeen. This effected the delivery of the tickets. I should have communicated it better that it would effect the on-time delivery of things. 
  -  Didn't prioritize bugs (from recent work) over new tickets. Basically a bug from work in current sprint should be prioritized over new work. 
- -  Enforcing diagrams when I'm a new hire. 
  -  **Adapting to negative** change i.e. if you move from one squad to another and that squad has bad workflow, then don't be sad. Work hard and ignore it. 
  -  **Not every manager/lead is the same**. Some leads will come and check on you and help you out upon a tiny show of weakness, for others you need to be very articulate with their time. You just have to adapt on day one. Possibly even asking these questions from your manager/lead would save you a lot of headache.
  -  **Not sitting down enought with Product members**. Building relationship is a 2-way thing. And if they're not creating tickets in a way you need, then sit down with them and discuss things. e.g. rather than saying updaing a random flag, mentioning that's a config or firebase feature flag, helps. Basically ask them to be explicit.
 
 ## Leadership
+- **Brining a focus** for my team. Example our squad shouldn't have a big initiative for SwiftUI, critical fixes of 2 other features and Splunk dashboard and then also pre-grooming of another Epic. 
+-  Enforcing diagrams when I'm a new hire. 
 - Instead of suggesting ideas and never following up for them to happen: I created (epic) tickets, added justification and pulled them into the sprint. 
 - I created a channel where everyone can share their thoughts
 - I mentored folks
