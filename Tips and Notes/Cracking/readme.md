@@ -50,7 +50,8 @@ If asked about your weakness, give a real example but also one that's a two side
 
 ## Leadership
 - **Brining a focus** for my team. Example our squad shouldn't have a big initiative for SwiftUI, critical fixes of 2 other features and Splunk dashboard and then also pre-grooming of another Epic. 
--  Enforcing diagrams when I'm a new hire. 
+-  Enforcing diagrams when I'm a new hire.
+- Even often help the meeting **stay on time**. Make everyone respect the time. 
 - Instead of suggesting ideas and never following up for them to happen: I created (epic) tickets, added justification and pulled them into the sprint. 
 - I created a channel where everyone can share their thoughts
 - I mentored folks
