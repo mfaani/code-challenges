@@ -55,6 +55,7 @@ If asked about your weakness, give a real example but also one that's a two side
 - Instead of suggesting ideas and never following up for them to happen: I created (epic) tickets, added justification and pulled them into the sprint. 
 - I created a channel where everyone can share their thoughts
 - I mentored folks
+- Make sure iOS and Android **roadmaps are aligned**. Make sure client and platform roadmaps.
 - I've faciliated a brown bag at work and ask folks to come and do the talks. 
 - I give thanks/shout outs/ encouragements publicly but also I give feedback to folks on stuff. 
    - Proper communication for making engineer initiatives happen and proper communication of a heavily product heave focused team: 
