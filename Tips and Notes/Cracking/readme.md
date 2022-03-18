@@ -69,6 +69,7 @@ If asked about your weakness, give a real example but also one that's a two side
 
 ### Questions to ask from interviewer: 
 
+- What are some of features that you've shipped in the last 3 months?
 - How **many devs/testers**
 - What do you like about your **team? Product? Company? **
 - What's your **PR merge rule **like
