@@ -25,6 +25,14 @@ Make sure for each project you can talk about:
  - Technical depth (my knowledge or access token and refresh token, app startup helped me in lots of discussions around needing access token and stuff). "I can go into more details if needed" 😅
 
 If asked about your weakness, give a real example but also one that's a two sided sword 😅. e.g. "I forget details...which allows me to execute things quickly :D" 
+
+
+"You're interviewing them as much as they're interviewing you
+Everybody I spoke to emphasized how collaborative the company is, so it sounds like it helps to be comfortable reaching out to others in the company if you have questions
+I didn't produce a perfectly optimal or tidy answer for most of my coding questions, but my speaking aloud about pros and cons, future improvements, areas of uncertainty seemed to delight the interviewers
+When it came to discussing previous impact I've had on team, I went to great lengths to demonstrate the ability to compromise based on constraints like time and technical requirements. Basically it's fine not to create the perfect thing as long as all stakeholders are informed about the trade offs.
+It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
+
 ## Mistakes: 
 
  - In every team you enter, try to find the **problem-solver** of the team. Don't discuss issues with the problem-creator. 
