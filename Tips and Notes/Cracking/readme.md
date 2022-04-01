@@ -55,6 +55,7 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
  -  **Adapting to negative** change i.e. if you move from one squad to another and that squad has bad workflow, then don't be sad. Work hard and ignore it. 
  -  **Not every manager/lead is the same**. Some leads will come and check on you and help you out upon a tiny show of weakness, for others you need to be very articulate with their time. You just have to adapt on day one. Possibly even asking these questions from your manager/lead would save you a lot of headache.
  -  **Not sitting down enought with Product members**. Building relationship is a 2-way thing. And if they're not creating tickets in a way you need, then sit down with them and discuss things. e.g. rather than saying updaing a random flag, mentioning that's a config or firebase feature flag, helps. Basically ask them to be explicit.
+ -  **Discuss How I feel about a challenging person** with someone I trust. Often speaking to another person, you realize you're at fault yourself (too). Validate your feelings about that person. Give it about 1 year to make it sure you know a person in full-remote environment vs. 6 months in person. Things are a lot more difficult to guage when you're remote!
 
 ## Leadership
 - **Brining a focus** for my team. Example our squad shouldn't have a big initiative for SwiftUI, critical fixes of 2 other features and Splunk dashboard and then also pre-grooming of another Epic. 
