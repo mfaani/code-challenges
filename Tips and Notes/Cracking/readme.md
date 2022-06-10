@@ -34,7 +34,7 @@ When it came to discussing previous impact I've had on team, I went to great len
 It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 
 ## Mistakes: 
- - 
+ - Ziyad mandan. Agar jaye pishraft kam shode, narazi hasti, bayad beri...
  - Being less humble as I grow technically
  - In every team you enter, try to find the **problem-solver** of the team. Don't discuss issues with the problem-creator. 
  - Trying to do a big ticket all in one go. Not breaking it down. 
