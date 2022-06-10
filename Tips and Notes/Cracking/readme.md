@@ -34,7 +34,8 @@ When it came to discussing previous impact I've had on team, I went to great len
 It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 
 ## Mistakes: 
-
+ - 
+ - Being less humble as I grow technically
  - In every team you enter, try to find the **problem-solver** of the team. Don't discuss issues with the problem-creator. 
  - Trying to do a big ticket all in one go. Not breaking it down. 
  - Don't be **shy** to ask in a Public channel. It's often better because you'll hear mutliple views and get to a consensus sooner. Especially that you're working in parallel with Android. 
@@ -75,6 +76,9 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
    - communicate with them the time that we need and the duration that we can't take in new features...
    - have direct contanct in a meeting with the PM. It shouldn't be someone passing the info around and it shouldn't be in a private conversation
  - Not properly communicating to manager/PM but then later spending time on stuff I thought was severly necessary. Like I should have more trust in myself that my decisions are right. Because more than often I've ended up doing that work later when my memory wasn't fresh and it had become a priority and then things got rushed...
+- With terrible mistakes, there's always great room for showing great strength. Example: 
+ - Someone terrible at coding, bringing up issues. Instead of getting angry, not helping, ignoring the person, coach them, pair with them, mentor them. 
+ - Some terrible code, crash...Great chance to fix the code. 
 
 ### Questions to ask from interviewer: 
 
