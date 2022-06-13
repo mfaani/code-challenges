@@ -36,6 +36,7 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 ## Mistakes: 
  - Ziyad mandan. Agar jaye pishraft kam shode, narazi hasti, bayad beri...
  - Being less humble as I grow technically
+ - Every team, manager, team lead is different. It's wrong to desire them to match yours. Same for them. You should find some middle ground. Often their initial weaknesses may turn into their strenghts...
  - In every team you enter, try to find the **problem-solver** of the team. Don't discuss issues with the problem-creator. 
  - Trying to do a big ticket all in one go. Not breaking it down. 
  - Don't be **shy** to ask in a Public channel. It's often better because you'll hear mutliple views and get to a consensus sooner. Especially that you're working in parallel with Android. 
