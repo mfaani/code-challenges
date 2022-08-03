@@ -36,6 +36,7 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 ## Mistakes: 
  - Ziyad mandan. Agar jaye pishraft kam shode, narazi hasti, bayad beri...
  - Being less humble as I grow technically
+ - Not having aligned priorities. Example: You need another team to help you with C, but the other team has committed to only A,B till the end of the year. You end up basically wasting time, trying to push for C (as an engineer) while it should be pushed ahead through your manager _first_
  - Every team, manager, team lead is different. It's wrong to desire them to match yours. Same for them. You should find some middle ground. Often their initial weaknesses may turn into their strenghts...
  - In every team you enter, try to find the **problem-solver** of the team. Don't discuss issues with the problem-creator. 
  - Trying to do a big ticket all in one go. Not breaking it down. 
