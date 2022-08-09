@@ -62,7 +62,8 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 
 ## Leadership
 - **Brining a focus** for my team. Example our squad shouldn't have a big initiative for SwiftUI, critical fixes of 2 other features and Splunk dashboard and then also pre-grooming of another Epic. 
--  Enforcing diagrams when I'm a new hire.
+- Idenfied bad API design. Example our ActivationResponse required client to do extensive logic handling on client side only to figure out what's the devices the user is eligible for activation. We worked with platform to make the API more clear and have them do the calculations. This brought parity between Android and iOS. 
+- Enforcing diagrams when I'm a new hire.
 - Even often help the meeting **stay on time**. Make everyone respect the time. 
 - Instead of suggesting ideas and never following up for them to happen: I created (epic) tickets, added justification and pulled them into the sprint. 
 - I created a channel where everyone can share their thoughts
