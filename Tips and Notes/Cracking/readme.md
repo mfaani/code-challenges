@@ -42,6 +42,7 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
  - Trying to do a big ticket all in one go. Not breaking it down. 
  - Don't be **shy** to ask in a Public channel. It's often better because you'll hear mutliple views and get to a consensus sooner. Especially that you're working in parallel with Android. 
  - Don't stress your peers. Don't stress your lead by too many questions. Or by asking (good) questions that they are likely not to know the answer. Let everyone be comfortable with it. 
+ - If something **slows you down**, don't feel depressed. You must be doing it slowly for a good reason. It's often an indicator that the task is new for you or you actually need time for things to soak in. Don't rush, nor lose hope. Be able to explain the reason. 
  - I often **think too much** and don't pull in my leads in a timely manner. 
  - When I'm frustraded due to incorrect managerial decisions e.g. rushing things, I actually become slower and feel like my slowness is justified. It shouldn't be. Their fault is their fault. I shouldn't let that slow me down. I should just work harder and fix things in the long run. Like outline a plan and talk with the right-minded people to get things done. 
  - Attempting to change/correct things, **before earning trust of your peers + understanding the current architecture/system**. Doing things too quick will cause failure.
