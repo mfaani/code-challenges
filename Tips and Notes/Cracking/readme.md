@@ -68,7 +68,8 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 - Even often help the meeting **stay on time**. Make everyone respect the time. 
 - Instead of suggesting ideas and never following up for them to happen: I created (epic) tickets, added justification and pulled them into the sprint. 
 - I created a channel where everyone can share their thoughts
-- I mentored folks
+- I mentored folks and gave a number of talks internally
+- Steered meeting conservations — when needed. Example: When someone was trying to continue a long talk during Grooming, then instead of saying: "Hey, we can't talk about this anymore?", I say "Hey do you think we can continue this conversation — so we can get to the rest of the tickets" i.e. instead of _instructing_ someone, we _ask_ them nicely. 
 - Make sure iOS and Android **roadmaps are aligned**. Make sure client and platform roadmaps.
 - I've faciliated a brown bag at work and ask folks to come and do the talks. 
 - I give thanks/shout outs/ encouragements publicly but also I give feedback to folks on stuff. 
