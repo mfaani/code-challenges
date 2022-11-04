@@ -71,6 +71,7 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
    2. Client is able to send information (to server) for both items at the needed time. Often client cant' pass some info until 2-3 screens later. 
    3. Addressing the need of either of the old APIs won't impact the latency of the other. Often returning a response for API-a takes 0.5 seconds while it takes 10 seconds for API-b. 
 - Idenfied bad API design. Example our ActivationResponse required client to do extensive logic handling on client side only to figure out what's the devices the user is eligible for activation. We worked with platform to make the API more clear and have them do the calculations. This brought parity between Android and iOS. 
+- Leaders can't be late to meetings. They can't be late to adopting new things. If you are then bad standards will get set...and by the time you want to change them, they'll be considered as a re-do. Previous efforst would be lost. People won't like you because you're changing their way of doing things. 
 - Enforcing diagrams when I'm a new hire.
 - Even often help the meeting **stay on time**. Make everyone respect the time. 
 - Instead of suggesting ideas and never following up for them to happen: I created (epic) tickets, added justification and pulled them into the sprint. 
