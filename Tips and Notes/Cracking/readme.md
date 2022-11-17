@@ -96,6 +96,9 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 - With terrible mistakes, there's always great room for showing great strength. Example: 
  - Someone terrible at coding, bringing up issues. Instead of getting angry, not helping, ignoring the person, coach them, pair with them, mentor them. 
  - Some terrible code, crash...Great chance to fix the code. 
+- When some is being terrible (at explaining the problem, writing a document, writing a ticket, pushing up a PR), then that's not a good time for letting them go. Instead: 
+ - It's actually the best time to give them help — without being explicit that you're helping them. They're not stupid. They'll see the kindness in what you did for them. Ex: A dev asks a question about their CI job failing — without ever linking the CI job itself. Instead of saying "well I need the link. Why didn't you share the link", just say: "I can take a look. Can you please share the link?" Make people/devs/product managers LOVE YOU. 
+
 
 ### Questions to ask from interviewer: 
 
