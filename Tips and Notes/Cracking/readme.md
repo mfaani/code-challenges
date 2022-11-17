@@ -65,9 +65,9 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 - **Brining a focus** for my team. Example our squad shouldn't have a big initiative for SwiftUI, critical fixes of 2 other features and Splunk dashboard and then also pre-grooming of another Epic. 
 - Idenfied bad API design. Example our ActivationResponse required client to do extensive logic handling on client side only to figure out what's the devices the user is eligible for activation. We worked with platform to make the API more clear and have them do the calculations. This brought parity between Android and iOS. 
 - Understand the difference between having a source of truth vs. being the SME. 
- - You never want to be a source of truth. Documents should be. 
- - If people have proposals/questions refer them to the document. Don't try to answer/consume it all. Let the document...the source of truth do that. 
- - In order to remain SME, follow all conversations/updates. Overtime do this less. let the document grow. This is the biggest growth you can have. 
+  - You never want to be a source of truth. Documents should be. 
+  - If people have proposals/questions refer them to the document. Don't try to answer/consume it all. Let the document...the source of truth do that. 
+  - In order to remain SME, follow all conversations/updates. Overtime do this less. let the document grow. This is the biggest growth you can have. 
 - Learning not only about my client code. But also learning about Teams & People around that we work with. 
  - Learn about Platform people. Learn about CI/CD team. 
  - Figure out how two old APIs are replaced with one. tldr if 
