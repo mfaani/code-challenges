@@ -36,6 +36,7 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 ## Mistakes: 
  - Ziyad mandan. Agar jaye pishraft kam shode, narazi hasti, bayad beri...
  - Being less humble as I grow technically
+ - Not making tradeoffs. Often if something is undeliverable, or not clearly defined, I end up fighting things rather than making tradeoffs. Example with Syft, I was aiming to get in something that wasn't their priority and pushing for our priority. Priorites need to align. If not, you'll fail. 
  - Not having aligned priorities. Example: You need another team to help you with C, but the other team has committed to only A,B till the end of the year. You end up basically wasting time, trying to push for C (as an engineer) while it should be pushed ahead through your manager _first_
  - Every team, manager, team lead is different. It's wrong to desire them to match yours. Same for them. You should find some middle ground. Often their initial weaknesses may turn into their strenghts...
  - In every team you enter, try to find the **problem-solver** of the team. Don't discuss issues with the problem-creator. 
