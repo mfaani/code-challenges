@@ -118,7 +118,14 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 - What new things have you tried? What makes you think you're a tech company? And not just focused on shipping a feature and making product happy?!
 
 - Using technology X, creates problem Y. How do you solve it. 
-- How did you achieve such
+- How’s your company presence in the iOS community?
+- Do you feel like you have the freedom to spend time on learning?
+- Have the autonomy to initiate something that wasn’t originated from a PM and ultimately have it shipped?
+- When was the last time some got a promotion? What did they do stand out?
+- Do you think promotions come in late?
+- How does the company/manager/team help you grow?
+- How soon are you to adopt the latest and greatest of iOS things.
+- What’s the last big change in terms of process that you made?
 
 ### RxSwift
 You should go on that you started the project with Rx, but then you ditched it. 
