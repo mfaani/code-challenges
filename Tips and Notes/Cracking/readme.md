@@ -200,7 +200,7 @@ total = n * i * log<sup> i + n </sup>
 
 Pro-tip: How many times a thing gets called. For what length. 
 
-** What is the Big O notation of fibnoacchi (Pg. 54)?**
+**What is the Big O notation of fibnoacchi (Pg. 54)?**
 
 It's `branches ^ depth` = 2 ^ N`
 
