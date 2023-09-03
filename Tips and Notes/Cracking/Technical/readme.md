@@ -40,6 +40,12 @@ for i in 0 ... n {
 
 It's N^2 because the first step is going to happen N - 1 times, then N -2 times, and until ... 1 . So it's `N(N-1)/2` and that's just N^2
 
+
+## Are recursive functions linear or exponential? 
+Both. 
+
+Traversing a balanced binary tree is `O(n)`. But also `2 ^ height`. `height` is _roughly_ `log(n)`. 
+
 **What's the Big O notation of sorting each string of an array and then sorting them all? (Pg. 49)**
 
 Assuming `i` is the average lenght of each item: 
@@ -73,6 +79,12 @@ fn = fn-1 + fn-2 & store
 
 So you basically change from computation to lookup and that changes your Big O notation...
 
+## Calculating something for each element, where the thing we calculate _shrinks by 1 for each new element_. Pg 46. 
+
+Examples: 
+1. For every element of the array sum the _remaining values_. If we have 10 items, for the first item, it's a sum of 10, then 9, then 8, ... then 1
+2. For every node in the tree, calculate its height. For every new node, we reduce the nodes count by 1. 
+
 ## Calculating the height of a tree vs calculating the height of every element of the tree: 
 https://leetcode.com/problems/balanced-binary-tree/description/
 Just the height has an O(n) at worse — if it's a straight line. Or log(n) if it's balanced. 
@@ -98,7 +110,12 @@ x * log2(2) = log2 N
 x * 1         = log2 N
 ```
 
+## Complexity of sorting an array of Strings?  Pg. 49
 
+You have to factor in the length of every string (s) and the number of items (n).
+
+Comparing two strings is just O(s)
+Sorting is 
 
 
 ## Technical Questions (Pg. 60)
@@ -197,4 +214,13 @@ Combination formula: Is same as permutation formula it just then reduces by the 
 
 # Tree
 
-https://towardsdatascience.com/5-types-of-binary-tree-with-cool-illustrations-9b335c430254
+- [different kind of trees with illustrations](https://towardsdatascience.com/5-types-of-binary-tree-with-cool-illustrations-9b335c430254)
+
+## Ways of thinking
+
+### Aggregation or single traversal
+- Just travers down once and aggregate things. Like a tree sum.
+
+### Validation (might lead to multi-traversal)
+- Check for a condition at the node itself. **Then check for each of its leafs. Do this repeatedly.**
+
