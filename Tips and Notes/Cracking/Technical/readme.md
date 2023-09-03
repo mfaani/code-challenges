@@ -73,6 +73,11 @@ fn = fn-1 + fn-2 & store
 
 So you basically change from computation to lookup and that changes your Big O notation...
 
+## Calculating the height of a tree vs calculating the height of every element of the tree: 
+https://leetcode.com/problems/balanced-binary-tree/description/
+Just the height has an O(n) at worse — if it's a straight line. Or log(n) if it's balanced. 
+But if you have to calculate the height of every element of the tree, then it's n + n-1 + n-2 + ... + 1, which is O(n^2). It's essentially the repeition that makes it n squared...
+
 ## Why is BST log(n)? 
 
 https://stackoverflow.com/questions/8185079/how-to-calculate-binary-search-complexity
