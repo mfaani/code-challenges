@@ -188,3 +188,8 @@ From A, B, C, D, E, F create 2 letter words: 6! total, but then we actually don'
 Combination formula: Is same as permutation formula it just then reduces by the _order overcount_ as well
 
 <img width="1435" alt="Screen Shot 2022-01-21 at 8 55 47 PM" src="https://user-images.githubusercontent.com/12160198/150620346-b3efc49c-b392-4fda-a53e-8790f0f1da5f.png">
+
+
+# Tree
+
+https://towardsdatascience.com/5-types-of-binary-tree-with-cool-illustrations-9b335c430254
