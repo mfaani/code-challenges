@@ -19,6 +19,7 @@ class Solution {
         if root == nil {
             return true
         }
+        // can't do it all in go, because we need to get answers of two things. 
         if abs(height(root?.left) - height(root?.right)) > 1 {
             return false   
         }
@@ -46,7 +47,15 @@ class Solution {
 // Recursion is beautiful. The answer and the subanswers start from the same code. Like they start from a 0, -1 value in most questiona. 
 // What makes them different is that one returns immediately and allows others to backtrack with an increment/mutation
 
+// COMPLEXITY
+
+I guess it’s n for the root, then n-1 for the nodes below it, then n-2 and so on.
+And that’s n(n+1)/2 which translates to n^2
+
+tldr if it was a single traversal then it’s O(n), but when I have to traverse each node down, then its O(n^2)
+
 // MISTAKE: I thought I can give it a pass if: I just look two levels down. But that isn't considerate of the global. Not sure really...
+
 // QUESTION: 
 /*
 Given a binary tree, determine if it is height-balanced.
