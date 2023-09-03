@@ -49,10 +49,10 @@ class Solution {
 
 // COMPLEXITY
 
-I guess it’s n for the root, then n-1 for the nodes below it, then n-2 and so on.
-And that’s n(n+1)/2 which translates to n^2
+// I guess it’s n for the root, then n-1 for the nodes below it, then n-2 and so on.
+// And that’s n(n+1)/2 which translates to n^2
 
-tldr if it was a single traversal then it’s O(n), but when I have to traverse each node down, then its O(n^2)
+// tldr if it was a single traversal then it’s O(n), but when I have to traverse each node down, then its O(n^2)
 
 // MISTAKE: I thought I can give it a pass if: I just look two levels down. But that isn't considerate of the global. Not sure really...
 
