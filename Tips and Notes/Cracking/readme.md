@@ -223,6 +223,29 @@ fn = fn-1 + fn-2 & store
 
 So you basically change from computation to lookup and that changes your Big O notation...
 
+## Why is BST log(n)? 
+
+https://stackoverflow.com/questions/8185079/how-to-calculate-binary-search-complexity
+
+You need to cut down until you can't cut down anymore. Each time you cut down by half. You stop cutting down when you only have 1 item. 
+```
+1 = N / 2 * x (x times cutting down)
+```
+Then multiply by 2x:
+```
+2x = N
+```
+Then do log2:
+
+```
+log2(2x)    = log2 N
+x * log2(2) = log2 N
+x * 1         = log2 N
+```
+
+
+
+
 ## Technical Questions (Pg. 60)
 
 Test your stuff with a simple:
