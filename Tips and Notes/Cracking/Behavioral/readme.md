@@ -66,6 +66,8 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
  -  **Discuss How I feel about a challenging person** with someone I trust. Often speaking to another person, you realize you're at fault yourself (too). Validate your feelings about that person. Give it about 1 year to make it sure you know a person in full-remote environment vs. 6 months in person. Things are a lot more difficult to guage when you're remote!
 
 ## Leadership
+- Don't Try to move initiatives all by yourself. Try to get your own inner circle on board. Then go for a bigger circle. Get their feedback. Include their name on the doc. That name-dropping increases their association and bond to the initiative.
+- Don't try to make an an initiative too big. Example don't try to refactor an API Service from v3 to v4. Instead try to just change v3 to v3.1 in a backwards compatible way. This would increase the buy-in from all parties. i.e. try to make additional changes. Don't try to remove params or make breaking changes. 
 - **Brining a focus** for my team. Example our squad shouldn't have a big initiative for SwiftUI, critical fixes of 2 other features and Splunk dashboard and then also pre-grooming of another Epic. 
 - Idenfied bad API design. Example our ActivationResponse required client to do extensive logic handling on client side only to figure out what's the devices the user is eligible for activation. We worked with platform to make the API more clear and have them do the calculations. This brought parity between Android and iOS. 
 - Understand the difference between having a source of truth vs. being the SME. 
