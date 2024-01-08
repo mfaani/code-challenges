@@ -64,8 +64,10 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
  -  **Not every manager/lead is the same**. Some leads will come and check on you and help you out upon a tiny show of weakness, for others you need to be very articulate with their time. You just have to adapt on day one. Possibly even asking these questions from your manager/lead would save you a lot of headache.
  -  **Not sitting down enought with Product members**. Building relationship is a 2-way thing. And if they're not creating tickets in a way you need, then sit down with them and discuss things. e.g. rather than saying updaing a random flag, mentioning that's a config or firebase feature flag, helps. Basically ask them to be explicit.
  -  **Discuss How I feel about a challenging person** with someone I trust. Often speaking to another person, you realize you're at fault yourself (too). Validate your feelings about that person. Give it about 1 year to make it sure you know a person in full-remote environment vs. 6 months in person. Things are a lot more difficult to guage when you're remote!
+- Don't bring up big changes in meetings without bringing them up to 1-2 people before hand and asking about their feedback. People don't like meetings to get derailed. Instead bring up it before hand. Let others 1-2 people acquaint themselves, agree/critic/feedback it. Then take it to the bigger team. tldr the path to innovation is best if done smoothly!
 
 ## Leadership
+
 - Striving to bring consistency and lack of bifurcation has been key architectural goal of mine. It just simplifies almost everything:
   - User Story creation and design
   - Documentation and diagrams
