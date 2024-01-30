@@ -34,7 +34,12 @@ I didn't produce a perfectly optimal or tidy answer for most of my coding questi
 When it came to discussing previous impact I've had on team, I went to great lengths to demonstrate the ability to compromise based on constraints like time and technical requirements. Basically it's fine not to create the perfect thing as long as all stakeholders are informed about the trade offs.
 It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 
-## Mistakes: 
+## Mistakes:  
+ - Trying to do all once:
+   - in a PR
+   - across a team
+   - across multiple teams
+   - Example instead of fixing a bug + renaming a function that would cause major version bumps, just fix the bug, then do a separate PR to rename the function across multiple teams. 
  - Ziyad mandan. Agar jaye pishraft kam shode, narazi hasti, bayad beri...
  - Being less humble as I grow technically
  - Not Pushing back against band aid changes. Because as soon as something gets shipped — it gets de-prioritized — because things are working.
