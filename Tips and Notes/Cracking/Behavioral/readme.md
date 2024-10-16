@@ -35,6 +35,7 @@ When it came to discussing previous impact I've had on team, I went to great len
 It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 
 ## Mistakes:  
+ - Not writing down my accomplishments. Not comparing it agains the career path and discussing it with my manager. Not requesting feedback. Like if you're great at something doesn't mean you're great at everything else...
  - Trying to do all once:
    - in a PR
    - across a team
@@ -72,7 +73,11 @@ It certainly won't hurt your chances to demonstrate a passion for Apple. - Jon"
 - Don't bring up big changes in meetings without bringing them up to 1-2 people before hand and asking about their feedback. People don't like meetings to get derailed. Instead bring up it before hand. Let others 1-2 people acquaint themselves, agree/critic/feedback it. Then take it to the bigger team. tldr the path to innovation is best if done smoothly!
 
 ## Leadership
-
+- Be ok with team velocity as opposed to yourself writing code. This means writing more docs, more meetings, finding the right person to talk to, to have them advocate, review, support your work.
+- Be able to function wearing different hats / or be in different modes. Examples of modes are:
+  - super feature driven: don't focus on refactoring. Just get the feature out. Write tickets for later work
+  - super engnineering driven: focus on clean code. Take your time with refactoring.
+  - Basicall I have to understand my environment/situation I'm in. Often we have a big deadline. Often we don't. Often someone is parental leave, often there's a Prod issue. Often there's something that we need to do right otherwise we can't scale it. 
 - Striving to bring consistency and lack of bifurcation has been key architectural goal of mine. It just simplifies almost everything:
   - User Story creation and design
   - Documentation and diagrams
@@ -134,7 +139,6 @@ And that it's best to not use mock clases, rather just inject a mock for its dep
 - Situation 
 - Action (try to have things in a bulleted list. I did 3 things x, y,z and explain each)
 - Result 
-
 
 ### Intro (Pg. 36) : 
 - Current role
